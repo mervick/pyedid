@@ -12,7 +12,7 @@ DisplayID is a VESA standard targeted to replace EDID and E-EDID extensions with
 ```py
 from pyedid import EDID
 
-# edid data of my LG Display
+# edid data of my Lenovo Display
 edid_txt = """         
 00ffffffffffff0030aeee6548505836
 0d1e0103803c22783a4455a9554d9d26
